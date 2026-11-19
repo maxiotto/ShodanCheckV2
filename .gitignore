@@ -1,0 +1,32 @@
+# Python & virtuelle Umgebungen
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller Build-Dateien
+build/
+dist/
+*.spec
+
+# Lokale Konfigurationen, API-Keys & Caches
+config.json
+session.json
+favorites.json
+history.json
+geoip_cache.json
+*.mmdb
+screenshot_cache/
+.shodancheck/
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+# ShodanCheck Laufzeitdaten & API-Keys
+shodancheck_*.json
+shodancheck_screenshots/
+gemini-code-*.txt

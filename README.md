@@ -1,10 +1,3 @@
-Da mir aktuell kein direktes Datei-Download-Tool zur Verfügung steht, findest du hier den vollständigen, sauberen Inhalt für deine `README.md` direkt zum Kopieren (über das Kopier-Symbol oben rechts im Codeblock) sowie den 1-Zeilen-Speicherbefehl für PowerShell.
-
-### 1. Fertiger Inhalt der `README.md` (kopieren)
-
-Klicke oben rechts im folgenden Codeblock auf das **Kopieren-Symbol**:
-
-```markdown
 # ??? ShodanCheck v2.0
 
 **Multi-Engine Endpoint & Infrastructure Validator** — eine moderne Desktop-Anwendung (Python & PySide6) zum Abfragen mehrerer Cyberspace-Suchmaschinen, zum asynchronen Prüfen von IP-/CIDR-Listen sowie zur Live-Analyse von Web-Oberflächen, TLS-Zertifikaten und Dienst-Bannern.
@@ -153,5 +146,3 @@ Anschließend lädst du die Datei auf GitHub hoch:
 git add README.md
 git commit -m "Docs: Vollständige README.md"
 git push -u origin main
-
-```
